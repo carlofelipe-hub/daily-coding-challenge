@@ -1,4 +1,4 @@
-""# 🏆 Daily Coding Challenge
+# 🏆 Daily Coding Challenge
 
 Welcome to the **Daily Coding Challenge**! This repository is designed to help you and your friends sharpen your coding skills, build good habits, and work your way up from the basics of **Python** to **JavaScript** web development.
 
@@ -121,12 +121,3 @@ Read the [CONTRIBUTING.md](docs/CONTRIBUTING.md) to learn how to contribute to t
 For a detailed roadmap, check the [LEARNING_PATH.md](docs/LEARNING_PATH.md) to see what concepts you need to master as you progress.
 
 ---
-
-## 🏅 Leaderboard (Coming Soon!)
-
-We will have a leaderboard that tracks everyone's progress and highlights top performers. Stay tuned!
-
----
-
-Ready to level up your coding skills? Let's go! 🚀
-""
