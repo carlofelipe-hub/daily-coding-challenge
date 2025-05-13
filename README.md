@@ -1,16 +1,18 @@
-# 🏆 Daily Coding Challenge
+# 🏆 Daily Coding Challenge (Puqo Edition)
 
-Welcome to the **Daily Coding Challenge**! This repository is designed to help you and your friends sharpen your coding skills, build good habits, and work your way up from the basics of **Python** to **JavaScript** web development.
+Welcome to the **Puqo Daily Coding Challenge**! This repo is specially made for us to sharpen our coding skills, one day at a time. We'll be grinding through the basics of **Python** and moving up to **JavaScript** web development. Made with love for the **Puqo Discord Server**. 💙
 
 ---
 
 ## 🚀 How It Works
 
-Every single day, there is a new coding challenge for you to solve. These challenges are designed to:
+Every single day, there’s a new coding challenge waiting for you. These are designed to:
 
-1. Reinforce fundamental concepts.
-2. Gradually introduce more complexity.
-3. Help you build real-world problem-solving skills.
+1. Build your foundational skills.
+2. Slowly introduce more complexity.
+3. Make you a coding beast over time.
+
+And syempre, walang iwanan, we help each other out! 🙌
 
 ---
 
@@ -94,7 +96,7 @@ Every single day, there is a new coding challenge for you to solve. These challe
    git clone https://github.com/your-username/daily-coding-challenge.git
    ```
 3. **Create a folder in `/solutions`**:
-   ```
+   ```bash
    solutions/your-username-day-01/solution.py
    ```
 4. **Commit your changes**:
@@ -112,7 +114,8 @@ Every single day, there is a new coding challenge for you to solve. These challe
 
 ## 🤝 Contributing
 
-Read the [CONTRIBUTING.md](docs/CONTRIBUTING.md) to learn how to contribute to this project.
+Read the [CONTRIBUTING.md](docs/CONTRIBUTING.md) to learn how to contribute to this project.  
+Kung nalilito, just ping me or ask in Puqo. 🚀
 
 ---
 
@@ -121,3 +124,5 @@ Read the [CONTRIBUTING.md](docs/CONTRIBUTING.md) to learn how to contribute to t
 For a detailed roadmap, check the [LEARNING_PATH.md](docs/LEARNING_PATH.md) to see what concepts you need to master as you progress.
 
 ---
+
+🔥 **Let's grind and get better together, Puqo Fam!** 🔥
