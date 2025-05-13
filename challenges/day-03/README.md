@@ -1,4 +1,4 @@
-""# 🎯 Day 3 Challenge — FizzBuzz
+# 🎯 Day 3 Challenge — FizzBuzz
 
 Welcome to **Day 3** of the Daily Coding Challenge! Today, we're tackling a classic problem called **FizzBuzz**. This is often used as a basic coding interview question, and it’s perfect for mastering:
 

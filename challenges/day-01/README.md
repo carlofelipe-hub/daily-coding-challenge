@@ -1,4 +1,4 @@
-""# 🎯 Day 1 Challenge — Age Checker
+# 🎯 Day 1 Challenge — Age Checker
 
 Welcome to **Day 1** of the Daily Coding Challenge! Today, we're going to build a simple **Age Checker** in Python to get you familiar with:
 

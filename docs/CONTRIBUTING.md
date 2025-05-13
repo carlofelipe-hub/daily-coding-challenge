@@ -1,4 +1,4 @@
-""# 🤝 Contributing to Daily Coding Challenge
+# 🤝 Contributing to Daily Coding Challenge
 
 Thank you for considering contributing to the **Daily Coding Challenge**! This guide will help you get set up so you can start making meaningful contributions.
 

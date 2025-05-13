@@ -1,4 +1,4 @@
-""# 🎯 Day 2 Challenge — Simple Calculator
+# 🎯 Day 2 Challenge — Simple Calculator
 
 Welcome to **Day 2** of the Daily Coding Challenge! Today, we are building a **Simple Calculator** in Python. You'll learn about:
 

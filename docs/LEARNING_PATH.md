@@ -1,4 +1,4 @@
-""# 📘 Learning Path for Daily Coding Challenge
+# 📘 Learning Path for Daily Coding Challenge
 
 Welcome to the **Learning Path**! This guide is designed to help you navigate through each week of the Daily Coding Challenge, so you build solid programming skills step by step.
 
